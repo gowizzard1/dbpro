@@ -1,0 +1,22 @@
+*******React*********
+- allow editable
+- allow checkbox
+- show expander icons
+- show checkbox icons
+- event to sort
+- event to edit
+- event to update edits
+- event to add node
+- event to add sibling
+- event to add child
+- event to filter
+- event to delete node
+- event to delete child
+
+******Golang******
+- update data
+- delete node/child
+- filter and refresh
+- add node/child
+- sort
+- 
